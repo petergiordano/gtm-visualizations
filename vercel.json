@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/positioning2x2sim.html"
+    }
+  ]
+}
